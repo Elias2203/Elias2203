@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Elias
+# 👋 Hi, I'm Elias Arzaluz
 
 <h1 align="center">
   Elias | Data Science & Engineering
@@ -25,7 +25,7 @@ class DataScienceStudent:
     def __init__(self):
         self.name = "Elias"
         self.age = 21  
-        self.university = "ESCOM - Instituto Politécnico Nacional"
+        self.university = "ESCOM - Instituto Politécnico Nacional MX"
         self.field = "Data Science"
         self.interests = [
             "Data Engineering",
@@ -132,7 +132,7 @@ The goal is to transform operational information into structured data that can b
 
 **Areas of application:** data processing, automation, geospatial analysis, and operational analytics.
 
-> 📌 Repository: Add your SectorPizza repository URL here when you're ready to make it public.
+> 📌 Repository: ...
 
 ---
 
@@ -142,13 +142,12 @@ The goal is to transform operational information into structured data that can b
 
 Completed professional training in data analytics through Google's certificate program.
 
-The program focuses on analytical thinking, data preparation, analysis, and communicating findings to support data-informed decisions.
 
 <p>
   <img src="https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics"/>
 </p>
 
-> Add a link to your certificate or Credly profile here if you have one available.
+> ...
 
 ---
 
